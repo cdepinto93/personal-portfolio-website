@@ -1,0 +1,100 @@
+/* body colors first */
+body {
+    background-color: #cccccc;
+  }
+/*header background colorado and sizes with a contrasting color than the rest of the body */
+header {
+    width: 940px auto;
+    margin: 0px auto ;
+    padding: 10px;
+    text-align: center;
+    background-color: #000000
+    
+}
+/*footer background colorado and sizes with a contrasting color than the rest of the body */
+footer {
+    width: 940px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #cccccc
+
+}   
+/*section background colorado and sizes with a contrasting color than the rest of the body */
+section {
+    width: 940px;
+    margin: 100px auto 100px auto;
+    padding: 0px;
+    background-color: #cccccc
+}
+/*about me section font and background information */
+  .aboutMe {
+    width: 740px ;
+    margin: 100px auto 0 auto;
+    padding: 0px;
+    text-align:center;
+    background-color: #cccccc;
+  }
+   
+  /*image sizing and alignment */
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px; 
+    height: 475px;
+
+
+  }
+  /*contact section font and background information */
+  .contact {
+    width: 940px ;
+    margin: 20px auto 0 auto;
+    padding: 0px;
+    text-align:center;
+    background-color: #cccccc;
+    
+  }
+  /* h1 text information */ 
+  h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 48px;
+    color: #cccccc;
+    text-align: center;
+  }
+  /* h2 text information */ 
+   h2 {
+    font-family: Verdana, sans-serif;
+    font-size: 32px;
+    color: #cccccc;
+    text-align: center; 
+   }
+   /* h3 text information */ 
+   h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 28px;
+    color: #000000;
+    text-align: center;
+   }
+   /* h4 text information */ 
+   h4 {
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    text-align: center;   
+   }
+   /* a text information and link styles */ 
+   a {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+  }
+  
+  a:link    { color: blue;  }
+  a:visited { color: red;   }
+  a:hover   { color: green; }
+  /*text information for the rest of the information*/ 
+  p, li, ul, ol {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    color: #000000;
+    text-align: left;

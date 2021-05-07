@@ -1,10 +1,10 @@
-/* body colors first */
+ pxbody colors first */
 body {
     background-color: #cccccc;
   }
 /*header background colorado and sizes with a contrasting color than the rest of the body */
 header {
-    width: auto;
+    width: 940px;
     margin: 0px auto;
     padding: 10px;
     text-align: center;

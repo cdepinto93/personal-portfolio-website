@@ -93,8 +93,9 @@ section {
   a:visited { color: red;   }
   a:hover   { color: green; }
   /*text information for the rest of the information*/ 
-  p {
+  p, li, ul, ol {
     font-family: Verdana, sans-serif;
     font-size: 18px;
     color: #000000;
     text-align: left;
+}

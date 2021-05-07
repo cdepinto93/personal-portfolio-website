@@ -4,7 +4,7 @@ body {
   }
 /*header background colorado and sizes with a contrasting color than the rest of the body */
 header {
-    width: 940px;
+    width: auto;
     margin: 0px auto;
     padding: 10px;
     text-align: center;

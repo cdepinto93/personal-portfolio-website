@@ -4,8 +4,8 @@ body {
   }
 /*header background colorado and sizes with a contrasting color than the rest of the body */
 header {
-    width: 940px auto;
-    margin: 0px auto ;
+    width: 940px;
+    margin: 0px auto;
     padding: 10px;
     text-align: center;
     background-color: #000000
@@ -93,7 +93,7 @@ section {
   a:visited { color: red;   }
   a:hover   { color: green; }
   /*text information for the rest of the information*/ 
-  p, li, ul, ol {
+  p {
     font-family: Verdana, sans-serif;
     font-size: 18px;
     color: #000000;

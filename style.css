@@ -1,4 +1,4 @@
- pxbody colors first */
+/*body colors first */
 body {
     background-color: #cccccc;
   }
@@ -32,7 +32,7 @@ section {
     width: 740px ;
     margin: 100px auto 0 auto;
     padding: 0px;
-    text-align:center;
+    text-align:left;
     background-color: #cccccc;
   }
    
